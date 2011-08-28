@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/bluegumtree.code.java.util"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/bluegumtree.code.api"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/bluegumtree.code.api.goodreads"/>
+	<classpathentry kind="lib" path="/home/sheila/Code/workspace/libraries/java/json.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
